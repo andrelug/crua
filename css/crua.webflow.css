@@ -1,0 +1,44 @@
+.column {
+  background-image: url('../images/imagem-site.jpg');
+  background-position: 0px 0px;
+  background-size: 640px;
+}
+
+.body {
+  height: 100%;
+  background-image: url('../images/crua-bg2.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+.w-embed {
+	text-align: center;
+}
+.column-2 {
+  padding: 20px;
+}
+
+.section-2 {
+  margin-top: 60px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.image {
+  border: 15px none #8c7a6a;
+}
+
+.image-2 {
+  width: 250px;
+}
+
+.column-3 {
+  padding: 20px;
+}
+
+.container, .w-container {
+  padding: 25px 7px;
+  background-image: -webkit-linear-gradient(270deg, #fff, #fff);
+  background-image: linear-gradient(180deg, #fff, #fff);
+}
