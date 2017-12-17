@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'Futura'; /*a name to be used later*/
+    src: url('./futura-bt.ttf'); /*URL to font*/
+}
 .column {
   background-image: url('../images/imagem-site.jpg');
   background-position: 0px 0px;
